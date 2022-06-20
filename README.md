@@ -1,7 +1,5 @@
 # Sping Boot + Liquibase
-Utilizando o Liquibase em aplicações Spring Boot
-
-
+Gerenciamento de banco de dados utilizando uma aplicação Spring Boot
 
 **Banco de dados:** H2 (memória)
 
