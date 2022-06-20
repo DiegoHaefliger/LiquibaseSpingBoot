@@ -1,4 +1,4 @@
-# LiquibaseSpingBoot
+# Sping Boot + Liquibase
 Utilizando o Liquibase em aplicações Spring Boot
 
 
